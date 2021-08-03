@@ -1,0 +1,8 @@
+sys/stat.h 함수 정리가 가장 잘 되어 있음
+https://www.it-note.kr/168
+
+symbol, symbol table
+https://operatingsystems.tistory.com/entry/SP-Symbol-and-Symbol-Tables
+
+레지스터 차이점
+http://dev.youngkyu.kr/9
